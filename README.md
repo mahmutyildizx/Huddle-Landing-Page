@@ -1,5 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
+Please visit https://mahmuttyildiz.github.io/Huddle-Landing-Page/ for review.
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
